@@ -1,5 +1,7 @@
 #pyradar
 
+This is an updated version of PyRadar taken from the following repository. Updated using Python's 2to3 program and changed the dependency on PIL (depreciated) to Pillow. Tested install using pip in Python 3.4. For the original repository please read below.
+
 [![logo](https://raw.github.com/PyRadar/pyradar/master/stuff/logos/logo1.png)](#logo)
 
 PyRadar official GIT repository.
